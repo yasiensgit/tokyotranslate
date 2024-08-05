@@ -1,0 +1,2 @@
+# tokyotranslate
+wordpress-JPNID
